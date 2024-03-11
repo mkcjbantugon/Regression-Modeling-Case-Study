@@ -1,4 +1,3 @@
 # Regression-Modeling-Case-Study
-To predict the number of bike rentals on a given day, as well as to provide insights into the factors that contribute to bike rental demand using machine learning model to 
-
+To develop a machine learning model that predicts the daily bike rentals and gives insights into the factors influencing bike rental demand.
 
