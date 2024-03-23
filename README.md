@@ -1,5 +1,10 @@
-# Regression Modeling Case Study
+# Regression Modeling Case Study (Kaggle Competition)
 To develop a machine learning model that predicts the daily bike rentals and gives insights into the factors influencing bike rental demand.
+
+## Disclaimer
+I accidentally deleted my original account on Kaggle and am unable to retrieve it that's why the user name is deleted in the snip. :(
+
+![Regression Case Study Kaggle](https://github.com/mkcjbantugon/Regression-Modeling-Case-Study/assets/157083966/adc87f99-91ba-44a5-b89a-8526bb8ea2d0)
 
 ## Objective
 The bike sharing industry has grown tremendously in recent years, with an estimated global value of $2.8 billion in 2023. This is due to a number of factors, such as convenience, sustainability, and physical fitness. As a result of the market's growth, your client, a major city in the United States, has tasked you with developing a machine learning model to predict the number of bike rentals on a given day, as well as to provide insights into the factors that contribute to bike rental demand.
