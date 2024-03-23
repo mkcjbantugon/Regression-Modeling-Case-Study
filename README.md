@@ -42,3 +42,4 @@ Download the jupyter notebook file "Bantugon_Michelle_Complete Analysis.ipynb" (
 
 
 * Licence badge from [Shields.IO](https://shields.io/)
+* Kaggle Competition hosted by Professor Chase Kustere. https://www.kaggle.com/competitions/computational-data-analytics-fy-spring-2024/leaderboard
