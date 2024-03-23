@@ -29,7 +29,7 @@ Download the jupyter notebook file "Bantugon_Michelle_Complete Analysis.ipynb" (
 
 <b>Weekday Trends</b>: <b>Saturday</b> see higher rentals than weekdays, with Sunday also showing increased demand compared to weekdays. Wednesday tend to have slightly higher rentals.
 
-<b>Weather Impact</b>: <b>Higher temperatures</b> (specifically if bike sharing system is active) positively affect rentals, while humidity negatively influences demand. Dew point temperature has a positive impact, indicating comfort levels may influence rentals.
+<b>Weather Impact</b>: <b>Higher temperatures</b> (specifically if bike sharing system is active) positively affect rentals, while humidity negatively influences demand. <b>Dew point temperature</b> has a positive impact, indicating comfort levels may influence rentals.
 
 <b>Precipitation and Wind</b>: Precipitation has a <b>negative impact on rentals</b>, as indicated by the negative coefficient. Wind speed  also negatively affects rentals, although to a lesser extent.
 
