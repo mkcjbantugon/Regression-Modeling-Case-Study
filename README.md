@@ -23,6 +23,20 @@ Download the jupyter notebook file "Bantugon_MKCJ_Complete Analysis.ipynb" (2.23
 
 ## Analysis
 
+<b>Key Insights from Model Variables</b>
+
+<b>Hourly Trends</b>: Rentals peak during morning (<b>8 am</b>) and evening rush hours (<b>5 pm and 6 pm </b>), indicating commuter usage. Early morning and late night hours (1 am to 3 am) have the lowest rentals.
+
+<b>Weekday Trends</b>: <b>Saturday</b> see higher rentals than weekdays, with Sunday also showing increased demand compared to weekdays. Wednesday tend to have slightly higher rentals.
+
+<b>Weather Impact</b>: <b>Higher temperatures</b> (specifically if bike sharing system is active) positively affect rentals, while humidity negatively influences demand. Dew point temperature has a positive impact, indicating comfort levels may influence rentals.
+
+<b>Precipitation and Wind</b>: Precipitation has a <b>negative impact on rentals</b>, as indicated by the negative coefficient. Wind speed  also negatively affects rentals, although to a lesser extent.
+
+<b>Holiday Effect</b>: Holidays see <b>decreased rentals</b>, likely due to non-working day status, impacting commuter patterns.
+
+<b>Heat Index</b>: The positive coefficient for heat index suggests a <b>positive influence on rentals</b>, possibly indicating a preference for biking in warmer weather.
+
 
 ## Credits
 
