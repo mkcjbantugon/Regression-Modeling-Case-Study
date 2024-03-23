@@ -19,7 +19,7 @@ The Cook County Planning and Development Department, responsible for the Chicago
 ## Requirement
 You must have Python installed in your computer in order to run the code.
 
-Download the jupyter notebook file "Bantugon_MKCJ_Complete Analysis.ipynb" (2.23 MB) to your computer. Run your terminal window to access jupyter notebook and go to the folder where you save the file and run.
+Download the jupyter notebook file "Bantugon_Michelle_Complete Analysis.ipynb" (2.23 MB) to your computer. Run your terminal window to access jupyter notebook and go to the folder where you save the file and run.
 
 ## Analysis
 
