@@ -23,7 +23,7 @@ Download the jupyter notebook file "Bantugon_Michelle_Complete Analysis.ipynb" (
 
 ## Analysis
 
-<b>Key Insights from Model Variables</b>
+<b>Factors Affeting Bike Rentals</b>
 
 <b>Hourly Trends</b>: Rentals peak during morning (<b>8 am</b>) and evening rush hours (<b>5 pm and 6 pm </b>), indicating commuter usage. Early morning and late night hours (1 am to 3 am) have the lowest rentals.
 
